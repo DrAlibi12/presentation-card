@@ -1,0 +1,16 @@
+{
+  "name": "presentationcard",
+  "version": "1.0.0",
+  "description": "Enio Lotero's Presentation Card",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Enio Lotero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "phaser": "^3.55.2"
+  }
+}
